@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+
+<div id="cascMenu">
+    <select id="select" onchange="getLocal(this.selectedIndex)">
+        <option>请选择</option><!-- selectedIndex=0 -->
+        <option>北京</option><!-- selectedIndex=1 -->
+        <option>广州</option>
+    </select>
+    <select id="selectInfo">
+        <option>请选择</option>
+    </select>
+<div>
+</body>
+<script>
+    function getLocal(selectIndex){
+   var arr = new Array();
+   arr[0] = [new Option("请选择","1")];
+   arr[1] = [new Option("东城区","1"),new Option("西城区","2"),new Option("朝阳区","3")];
+   arr[2] = [new Option("海珠区","1"),new Option("天河区","2")];
+   var selectInfo = document.getElementById("selectInfo");
+   selectInfo.innerHTML = "";
+   for(var i = 0;i<arr[selectIndex].length;i++){
+        selectInfo.options[i] = arr[selectIndex][i];
+   }
+}
+
+</script>
+</html>
