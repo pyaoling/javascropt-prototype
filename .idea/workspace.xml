@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b97bb32-d1d2-499e-8432-ab0d93d3f30f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/prototype.html" beforeDir="false" afterPath="$PROJECT_DIR$/option-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/option-form-javascript.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/option-form.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+            <state relative-caret-position="550">
+              <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/option-form-javascript.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="740">
+              <caret line="423" column="2" selection-start-line="423" selection-start-column="2" selection-end-line="423" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -37,12 +47,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/prototype.html" />
+        <option value="$PROJECT_DIR$/option-form-javascript.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="860" />
-    <option name="y" value="1" />
+    <option name="x" value="451" />
+    <option name="y" value="87" />
     <option name="width" value="1256" />
     <option name="height" value="999" />
   </component>
@@ -69,6 +80,9 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -95,15 +109,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559125135410</updated>
-      <workItem from="1559125136977" duration="1446000" />
+      <workItem from="1559125136977" duration="2060000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1446000" />
+    <option name="totallyTimeSpent" value="2060000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="860" y="1" width="1256" height="999" extended-state="0" />
+    <frame x="451" y="87" width="1256" height="999" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -135,8 +149,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/option-form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        <state relative-caret-position="550">
+          <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/option-form-javascript.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="423" column="2" selection-start-line="423" selection-start-column="2" selection-end-line="423" selection-end-column="2" />
         </state>
       </provider>
     </entry>
